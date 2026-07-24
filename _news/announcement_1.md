@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2013-06-01 00:00:00-0400 # TODO: confirm exact date
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[Baylor College of Medicine welcomes Dr. Chonghui Cheng](https://www.bcm.edu/news/baylor-welcomes-chonghui-cheng)
