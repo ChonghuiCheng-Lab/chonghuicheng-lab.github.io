@@ -15,16 +15,18 @@ The developmental program Epithelial-Mesenchymal Transition (EMT) is frequently 
 
 In collaboration with nano-technology engineers, we developed the "NanoFlare" method that enables the detection and isolation of live circulating tumor cells (CTC), establishing a platform to study splicing-mediated cancer cell plasticity and phenotypes in patient-derived samples. We are continuing on this collaboration to develop novel tools for the prognosis and diagnosis of breast cancer.
 
-We have been intrigued by the fact that nearly all human genes are detected to undergo alternative splicing, vastly expanding the human proteomes. Therapeutic resistance of promising anti-tumor drugs, such as the anti-HER2 antibody Trastuzumab and the B-RAF(V600E) inhibitor Vemurafenib, is now known to be caused by aberrantly spliced HER2 and B-RAF. Despite these important observations, alternative splicing in cancer has remained largely an untargeted territory. We are actively looking for dedicated research fellows to join us to understand the contribution of RNA regulation in breast cancer metastasis and to apply it to clinical settings.
+We have been intrigued by the fact that nearly all human genes are detected to undergo alternative splicing, vastly expanding the human proteome. Therapeutic resistance of promising anti-tumor drugs, such as the anti-HER2 antibody Trastuzumab and the B-RAF(V600E) inhibitor Vemurafenib, is now known to be caused by aberrantly spliced HER2 and B-RAF. Despite these important observations, alternative splicing in cancer has remained largely an untargeted territory. We are actively looking for dedicated research fellows to join us to understand the contribution of RNA regulation in breast cancer metastasis and to apply it to clinical settings.
 
 ## Research Areas
 
 - RNA alternative splicing and epithelial-mesenchymal transition (EMT) in breast cancer metastasis
-- hnRNPM-mediated splicing programs and CD44 isoform switching
-- NanoFlare-based detection and isolation of circulating tumor cells (CTC)
+- hnRNPM- and hnRNPF-mediated splicing programs, including RNA G-quadruplex regulation and CD44 isoform switching
+- NanoFlare-based detection and isolation of circulating tumor cells (CTCs)
 - Splicing-driven therapeutic resistance (e.g., HER2, B-RAF) and translational applications
 
-<!-- TODO: add grant/funding information -->
+See the [Publications](/publications/) page for our recent papers, and [Join Us](/join-us/) if you're interested in contributing to this work.
+
+<!-- TODO: add current grant/funding information -->
 
 ## Funding
 
