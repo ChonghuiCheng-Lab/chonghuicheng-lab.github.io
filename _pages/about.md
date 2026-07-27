@@ -5,13 +5,9 @@ permalink: /
 subtitle: <a href='https://www.bcm.edu/research/faculty-labs/chonghui-cheng-lab'>Baylor College of Medicine</a>, BCM-Alkek Graduate School
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: center
+  image: lab_group_photo.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Room N1110.02, MS: BCM600</p>
-    <p>Houston, TX 77030</p>
-    <p>Phone: 713-798-1056</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons (CV/email/RSS/etc.) at the bottom of the page

@@ -115,4 +115,46 @@ nav_order: 2
       <div class="member-name">Ying Wang</div>
     </figcaption>
   </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Michael Lee">
+    <figcaption>
+      <div class="member-name">Michael Lee</div>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Christian Siangco">
+    <figcaption>
+      <div class="member-name">Christian Siangco</div>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Pedro Lopez">
+    <figcaption>
+      <div class="member-name">Pedro Lopez</div>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Aveksha Sharma">
+    <figcaption>
+      <div class="member-name">Aveksha Sharma</div>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Helena Hanley">
+    <figcaption>
+      <div class="member-name">Helena Hanley</div>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Yousef Khashana">
+    <figcaption>
+      <div class="member-name">Yousef Khashana</div>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Ruiying Ma">
+    <figcaption>
+      <div class="member-name">Ruiying Ma</div>
+    </figcaption>
+  </figure>
 </div>
