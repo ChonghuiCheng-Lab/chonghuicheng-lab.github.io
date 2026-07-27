@@ -1,28 +1,35 @@
 ---
-layout: profiles
+layout: page
 permalink: /team/
 title: team
 description: members of the Cheng Lab
 nav: true
 nav_order: 2
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  # Principal Investigator
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md # TODO: replace with a real PI bio content file
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Chonghui Cheng, M.D., Ph.D. — Professor, Principal Investigator</p>
-      <p>Room N1110.02, MS: BCM600</p>
-      <p>Houston, TX 77030</p>
 ---
 
-## Lab Members
-
 <style>
+  .pi-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 2.5rem;
+  }
+  .pi-card img {
+    width: 260px;
+    max-width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border-radius: 0.5rem;
+    display: block;
+  }
+  .pi-card .pi-info p {
+    margin: 0.25rem 0;
+  }
+  .pi-card .pi-name {
+    font-weight: 600;
+    font-size: 1.15em;
+  }
   .lab-roster {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -61,6 +68,18 @@ profiles:
     }
   }
 </style>
+
+<div class="pi-card">
+  <img src="{{ '/assets/img/lab_members/cheng-chonghui-e4ae06ce2a0e.jpeg' | relative_url }}" alt="Chonghui Cheng">
+  <div class="pi-info">
+    <p class="pi-name">Chonghui Cheng, M.D., Ph.D.</p>
+    <p>Professor, Principal Investigator</p>
+    <p>Room N1110.02, MS: BCM600</p>
+    <p>Houston, TX 77030</p>
+  </div>
+</div>
+
+## Lab Members
 
 <div class="lab-roster">
   <figure>
