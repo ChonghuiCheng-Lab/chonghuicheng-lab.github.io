@@ -4,11 +4,6 @@ title: home
 permalink: /
 subtitle: <a href='https://www.bcm.edu/research/faculty-labs/chonghui-cheng-lab'>Baylor College of Medicine</a>, BCM-Alkek Graduate School
 
-profile:
-  align: center
-  image: lab_group_photo.jpeg
-  image_circular: false # crops the image to make it circular
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons (CV/email/RSS/etc.) at the bottom of the page
 
@@ -22,6 +17,22 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<style>
+  .lab-photo-hero {
+    margin: 0 0 2rem 0;
+  }
+  .lab-photo-hero img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    display: block;
+  }
+</style>
+
+<div class="lab-photo-hero">
+  <img src="{{ '/assets/img/lab_group_photo.jpeg' | relative_url }}" alt="Cheng Lab group photo">
+</div>
 
 In the Cheng Lab, we study how RNA regulation controls cellular processes in normal biology and in cancer. Working at the interface of RNA splicing and breast cancer biology, our current focus is on the regulation of breast cancer metastasis driven by alternative splicing. We combine molecular biology, genomics, and bioinformatics with genetic models and patient samples to uncover the rules and networks that regulate metastasis and related processes. We work closely with physician scientists to translate our basic research findings into prognostic markers and therapeutics for breast cancer.
 
