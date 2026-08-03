@@ -7,6 +7,17 @@ nav: true
 nav_order: 4
 ---
 
+<style>
+  :root {
+    --global-bg-color: #e0e2dc;
+    --global-card-bg-color: #e0e2dc;
+  }
+  html,
+  body {
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+</style>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

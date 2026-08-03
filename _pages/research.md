@@ -7,6 +7,17 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+  :root {
+    --global-bg-color: #e0e2dc;
+    --global-card-bg-color: #e0e2dc;
+  }
+  html,
+  body {
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+</style>
+
 ## Overview
 
 In the Cheng lab, we strive to understand the fundamental questions of how RNA regulation controls cellular processes in normal biology and in the context of cancer. Working at the interface of RNA splicing and breast cancer biology, our current focus is on regulation of breast cancer metastasis driven by alternative splicing. We use molecular biology, genomics, and bioinformatics approaches in conjunction with genetic models and patient samples to discover rules and networks that regulate metastasis and associated processes. We work closely with physician scientists and aim to apply our findings from basic research to the development of prognostic markers and therapeutics for the treatment of breast cancer.

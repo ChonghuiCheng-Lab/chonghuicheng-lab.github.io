@@ -19,14 +19,23 @@ latest_posts:
 ---
 
 <style>
+  :root {
+    --global-bg-color: #e0e2dc;
+    --global-card-bg-color: #e0e2dc;
+  }
+  html,
+  body {
+    font-family: "Open Sans", Arial, sans-serif;
+  }
   .lab-photo-hero {
     margin: 0 0 2rem 0;
   }
   .lab-photo-hero img {
-    width: 100%;
+    width: 60.24%; /* leaves a margin on each side equal to ~33% of the image's own width */
     height: auto;
     border-radius: 0.5rem;
     display: block;
+    margin: 0 auto;
   }
 </style>
 

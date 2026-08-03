@@ -8,6 +8,14 @@ nav_order: 6
 ---
 
 <style>
+  :root {
+    --global-bg-color: #e0e2dc;
+    --global-card-bg-color: #e0e2dc;
+  }
+  html,
+  body {
+    font-family: "Open Sans", Arial, sans-serif;
+  }
   .photo-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));

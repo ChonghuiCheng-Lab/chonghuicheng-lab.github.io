@@ -7,6 +7,17 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+  :root {
+    --global-bg-color: #e0e2dc;
+    --global-card-bg-color: #e0e2dc;
+  }
+  html,
+  body {
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+</style>
+
 We are actively looking for dedicated research fellows to join us to understand the contribution of RNA regulation in breast cancer metastasis and to apply it to clinical settings.
 
 ## Open Positions

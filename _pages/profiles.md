@@ -8,6 +8,14 @@ nav_order: 2
 ---
 
 <style>
+  :root {
+    --global-bg-color: #e0e2dc;
+    --global-card-bg-color: #e0e2dc;
+  }
+  html,
+  body {
+    font-family: "Open Sans", Arial, sans-serif;
+  }
   .pi-card {
     display: flex;
     flex-wrap: wrap;
@@ -140,7 +148,7 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Helena Hanley">
+    <img src="{{ '/assets/img/lab_members/helena_hanley_headshot.png' | relative_url }}" alt="Helena Hanley">
     <figcaption>
       <div class="member-name">Helena Hanley</div>
     </figcaption>
