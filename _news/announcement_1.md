@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2013-06-01 00:00:00-0400 # TODO: confirm exact date
+date: 2026-06-01 00:00:00-0400 # TODO: confirm exact date; only the year is known reliably
 inline: true
 related_posts: false
 ---
 
-[Baylor College of Medicine welcomes Dr. Chonghui Cheng](https://www.bcm.edu/news/baylor-welcomes-chonghui-cheng)
+New publication: [Rat somatic genome editing enables ER+ breast cancer modeling](https://doi.org/10.1073/pnas.2529653123) (PNAS)

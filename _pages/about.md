@@ -26,12 +26,24 @@ latest_posts:
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
+    font-size: 150%;
+  }
+  #search-toggle .nav-link {
+    font-size: 0;
+  }
+  #search-toggle .nav-link::before {
+    content: "Search";
+    font-size: 1rem;
+    margin-right: 0.4em;
+  }
+  #search-toggle .nav-link i {
+    font-size: 1rem;
   }
   .lab-photo-hero {
     margin: 0 0 2rem 0;
   }
   .lab-photo-hero img {
-    width: 60.24%; /* leaves a margin on each side equal to ~33% of the image's own width */
+    width: 100%; /* spans the same width as the text column below it */
     height: auto;
     border-radius: 0.5rem;
     display: block;
@@ -43,8 +55,10 @@ latest_posts:
   <img src="{{ '/assets/img/lab_group_photo.jpeg' | relative_url }}" alt="Cheng Lab group photo">
 </div>
 
-In the Cheng Lab, we study how RNA regulation controls cellular processes in normal biology and in cancer. Working at the interface of RNA splicing and breast cancer biology, our current focus is on the regulation of breast cancer metastasis driven by alternative splicing. We combine molecular biology, genomics, and bioinformatics with genetic models and patient samples to uncover the rules and networks that regulate metastasis and related processes. We work closely with physician scientists to translate our basic research findings into prognostic markers and therapeutics for breast cancer.
+The Cheng Lab seeks to transform discoveries in RNA biology into innovative strategies to understand, prevent, and treat metastatic breast cancer. Working at the interface of RNA biology, cancer biology, and immunology, we investigate the molecular mechanisms by which RNA processing and surveillance govern breast cancer metastasis, tumor-immune interactions, and therapeutic outcomes.
 
-The developmental program Epithelial-Mesenchymal Transition (EMT) is frequently re-activated in metastatic and recurrent tumors. Our work provided a conceptual understanding of a causal role for RNA alternative splicing in EMT and breast cancer recurrence, including splice isoform switching of CD44 and a splicing-mediated pathway driven by the RNA-binding protein hnRNPM. In collaboration with nano-technology engineers, we also developed the "NanoFlare" method for detecting and isolating live circulating tumor cells (CTCs) from patient samples.
+Our research established alternative RNA splicing as a fundamental regulator of epithelial-mesenchymal transition (EMT), a developmental program that is frequently reactivated during tumor metastasis and recurrence. We have also uncovered a previously unrecognized role for RNA-binding proteins in maintaining transcriptome integrity. We found that these proteins suppress aberrant RNA processing, including cryptic splicing events that can generate immunostimulatory double-stranded RNAs and potentially tumor-specific neoantigens. We are investigating how disruption of these RNA quality-control mechanisms reshapes immune signaling and the tumor microenvironment, revealing new opportunities for cancer immunotherapy.
+
+To address these questions, we integrate molecular biology, functional genomics, computational biology, genetic models, and patient-derived samples to define RNA regulatory networks that drive cancer progression. We work closely with physician-scientists to translate our discoveries into biomarkers and RNA-based therapeutic strategies for metastatic breast cancer while developing new genomic and molecular approaches to study RNA regulation in tumors and patient samples. Ultimately, we aim to harness discoveries in RNA biology to develop innovative therapeutic strategies that improve outcomes for patients with metastatic breast cancer.
 
 See the [Team](/team/), [Research](/research/), [Publications](/publications/), and [Join Us](/join-us/) pages for more.

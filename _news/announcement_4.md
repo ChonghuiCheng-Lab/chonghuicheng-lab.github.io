@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-01 00:00:00-0400 # TODO: confirm exact date
+date: 2025-11-01 00:00:00-0400 # TODO: confirm exact date; only the year is known reliably
 inline: true
 related_posts: false
 ---
 
-[G-quadruplex regulates breast cancer-associated gene](https://www.bcm.edu/news/g-quadruplex-regulates-breast-cancer-gene)
+New preprint: [Rat somatic genome editing enables ER+ breast cancer modeling](https://doi.org/10.1101/2025.09.15.675961) (bioRxiv)

@@ -15,6 +15,18 @@ nav_order: 2
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
+    font-size: 150%;
+  }
+  #search-toggle .nav-link {
+    font-size: 0;
+  }
+  #search-toggle .nav-link::before {
+    content: "Search";
+    font-size: 1rem;
+    margin-right: 0.4em;
+  }
+  #search-toggle .nav-link i {
+    font-size: 1rem;
   }
   .pi-card {
     display: flex;
