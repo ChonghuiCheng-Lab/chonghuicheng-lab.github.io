@@ -28,6 +28,13 @@ nav_order: 4
   #search-toggle .nav-link i {
     font-size: 1rem;
   }
+  .post-title {
+    font-size: 40px; /* keep header text at its original (pre-150%) size */
+  }
+  .abbr,
+  .abbr .badge {
+    font-size: 18px; /* keep publication journal badges (e.g. PNAS, JCI) at their original size */
+  }
 </style>
 
 <!-- _pages/publications.md -->

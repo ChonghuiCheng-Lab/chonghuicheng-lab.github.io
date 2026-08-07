@@ -28,6 +28,9 @@ nav_order: 6
   #search-toggle .nav-link i {
     font-size: 1rem;
   }
+  .post-title {
+    font-size: 40px; /* keep header text at its original (pre-150%) size */
+  }
   .photo-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));

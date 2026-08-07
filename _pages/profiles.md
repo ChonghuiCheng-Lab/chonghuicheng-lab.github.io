@@ -28,6 +28,9 @@ nav_order: 2
   #search-toggle .nav-link i {
     font-size: 1rem;
   }
+  .post-title {
+    font-size: 40px; /* keep header text at its original (pre-150%) size */
+  }
   .pi-card {
     display: flex;
     flex-wrap: wrap;

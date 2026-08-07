@@ -28,6 +28,9 @@ nav_order: 5
   #search-toggle .nav-link i {
     font-size: 1rem;
   }
+  .post-title {
+    font-size: 40px; /* keep header text at its original (pre-150%) size */
+  }
 </style>
 
 We are actively looking for dedicated research fellows to join us to understand the contribution of RNA regulation in breast cancer metastasis and to apply it to clinical settings.
