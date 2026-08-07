@@ -31,6 +31,9 @@ nav_order: 3
   .post-title {
     font-size: 40px; /* keep header text at its original (pre-150%) size */
   }
+  .navbar .nav-link {
+    font-size: 24px; /* keep navbar menu items at their original (pre-150%) size */
+  }
 </style>
 
 ## Overview

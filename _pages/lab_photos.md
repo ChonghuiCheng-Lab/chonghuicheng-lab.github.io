@@ -31,6 +31,9 @@ nav_order: 6
   .post-title {
     font-size: 40px; /* keep header text at its original (pre-150%) size */
   }
+  .navbar .nav-link {
+    font-size: 24px; /* keep navbar menu items at their original (pre-150%) size */
+  }
   .photo-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));

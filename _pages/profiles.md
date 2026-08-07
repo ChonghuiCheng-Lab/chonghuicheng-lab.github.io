@@ -31,6 +31,9 @@ nav_order: 2
   .post-title {
     font-size: 40px; /* keep header text at its original (pre-150%) size */
   }
+  .navbar .nav-link {
+    font-size: 24px; /* keep navbar menu items at their original (pre-150%) size */
+  }
   .pi-card {
     display: flex;
     flex-wrap: wrap;
@@ -116,13 +119,14 @@ nav_order: 2
     <img src="{{ '/assets/img/lab_members/panici-brendan-a4b8dcc2b9d1.jpeg' | relative_url }}" alt="Brendan Panici">
     <figcaption>
       <div class="member-name">Brendan Panici</div>
+      <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/img/lab_members/patel-khushali-6583e41e9fe3.png' | relative_url }}" alt="Khushali Patel">
     <figcaption>
       <div class="member-name">Khushali Patel</div>
-      <div class="member-role">Graduate Student</div>
+      <div class="member-role">Postdoc</div>
     </figcaption>
   </figure>
   <figure>
@@ -133,51 +137,52 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/wang-ying-ac6bb9d522ac.jpeg' | relative_url }}" alt="Ying Wang">
-    <figcaption>
-      <div class="member-name">Ying Wang</div>
-    </figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Michael Lee">
     <figcaption>
       <div class="member-name">Michael Lee</div>
+      <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Christian Siangco">
     <figcaption>
       <div class="member-name">Christian Siangco</div>
+      <div class="member-role">Lab technician</div>
     </figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Pedro Lopez">
     <figcaption>
       <div class="member-name">Pedro Lopez</div>
+      <div class="member-role">Lab technician</div>
     </figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Aveksha Sharma">
     <figcaption>
       <div class="member-name">Aveksha Sharma</div>
+      <div class="member-role">Postdoc</div>
     </figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/img/lab_members/helena_hanley_headshot.png' | relative_url }}" alt="Helena Hanley">
     <figcaption>
       <div class="member-name">Helena Hanley</div>
+      <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Yousef Khashana">
     <figcaption>
       <div class="member-name">Yousef Khashana</div>
+      <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
   <figure>
     <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Ruiying Ma">
     <figcaption>
       <div class="member-name">Ruiying Ma</div>
+      <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
 </div>
