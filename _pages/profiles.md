@@ -144,7 +144,7 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Christian Siangco">
+    <img src="{{ '/assets/img/lab_members/christian_headshot.png' | relative_url }}" alt="Christian Siangco">
     <figcaption>
       <div class="member-name">Christian Siangco</div>
       <div class="member-role">Lab technician</div>
