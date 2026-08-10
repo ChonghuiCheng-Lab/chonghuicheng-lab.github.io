@@ -2,7 +2,6 @@
 layout: page
 permalink: /team/
 title: Team
-description: members of the Cheng Lab
 nav: true
 nav_order: 2
 ---

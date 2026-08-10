@@ -2,7 +2,6 @@
 layout: page
 permalink: /lab-photos/
 title: Lab Photos
-description: a gallery of past Cheng Lab moments
 nav: true
 nav_order: 6
 ---
