@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-06-01 00:00:00-0400 # TODO: confirm exact date; only the year is known reliably
+date: 2026-07-15 00:00:00-0400 # exact day not specified; day-of-month is hidden on the site, only used for ordering
 inline: true
 related_posts: false
 ---
 
-New publication: [Rat somatic genome editing enables ER+ breast cancer modeling](https://doi.org/10.1073/pnas.2529653123) (PNAS)
+**July 2026** — Congratulations to Aveksha Sharma, who won the CPRIT Postdoctoral Training Award! Way to go Aveksha!

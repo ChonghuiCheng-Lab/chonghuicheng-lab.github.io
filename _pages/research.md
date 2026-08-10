@@ -15,7 +15,7 @@ nav_order: 3
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 150%;
+    font-size: 125%;
   }
   #search-toggle .nav-link {
     font-size: 0;

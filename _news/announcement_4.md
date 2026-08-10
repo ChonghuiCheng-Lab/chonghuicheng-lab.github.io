@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-01 00:00:00-0400 # TODO: confirm exact date; only the year is known reliably
+date: 2025-12-20 00:00:00-0400 # exact day not specified; day-of-month is hidden on the site, only used for ordering
 inline: true
 related_posts: false
 ---
 
-New preprint: [Rat somatic genome editing enables ER+ breast cancer modeling](https://doi.org/10.1101/2025.09.15.675961) (bioRxiv)
+**December 2025** — Congratulations to Georg Bobkov and Khushali Patel for their paper on tumor cell clustering, accepted in Nature Communications. [Read this to learn more](https://blogs.bcm.edu/2026/02/17/from-the-labs-a-sticky-situation-boosts-triple-negative-breast-cancers-ability-to-metastasize/).

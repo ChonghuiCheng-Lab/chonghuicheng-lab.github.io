@@ -15,7 +15,7 @@ nav_order: 2
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 150%;
+    font-size: 125%;
   }
   #search-toggle .nav-link {
     font-size: 0;
@@ -137,7 +137,7 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Michael Lee">
+    <img src="{{ '/assets/img/lab_members/michael_lee_headshot.png' | relative_url }}" alt="Michael Lee">
     <figcaption>
       <div class="member-name">Michael Lee</div>
       <div class="member-role">Graduate Student</div>
@@ -158,7 +158,7 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Aveksha Sharma">
+    <img src="{{ '/assets/img/lab_members/Aveksha_headshot.jpg' | relative_url }}" alt="Aveksha Sharma">
     <figcaption>
       <div class="member-name">Aveksha Sharma</div>
       <div class="member-role">Postdoc</div>

@@ -10,7 +10,7 @@ social: false # includes social icons (CV/email/RSS/etc.) at the bottom of the p
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -26,7 +26,7 @@ latest_posts:
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 150%;
+    font-size: 125%;
   }
   #search-toggle .nav-link {
     font-size: 0;
@@ -48,6 +48,9 @@ latest_posts:
   .abbr,
   .abbr .badge {
     font-size: 18px; /* keep publication journal badges (e.g. PNAS, JCI) at their original size */
+  }
+  .news th[scope="row"] {
+    display: none; /* hides the exact day; announcement text carries "Month Year" instead */
   }
   .lab-photo-hero {
     margin: 0 0 2rem 0;
