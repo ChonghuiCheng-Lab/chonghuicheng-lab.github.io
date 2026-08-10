@@ -1,21 +1,17 @@
 ---
 layout: page
 permalink: /team/
-title: team
+title: Team
 description: members of the Cheng Lab
 nav: true
 nav_order: 2
 ---
 
 <style>
-  :root {
-    --global-bg-color: #e0e2dc;
-    --global-card-bg-color: #e0e2dc;
-  }
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 125%;
+    font-size: 110%;
   }
   #search-toggle .nav-link {
     font-size: 0;

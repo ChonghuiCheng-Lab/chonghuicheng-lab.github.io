@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: <a href='https://www.bcm.edu/research/faculty-labs/chonghui-cheng-lab'>Baylor College of Medicine</a>, BCM-Alkek Graduate School
 
@@ -19,14 +19,10 @@ latest_posts:
 ---
 
 <style>
-  :root {
-    --global-bg-color: #e0e2dc;
-    --global-card-bg-color: #e0e2dc;
-  }
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 125%;
+    font-size: 110%;
   }
   #search-toggle .nav-link {
     font-size: 0;

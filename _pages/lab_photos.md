@@ -1,21 +1,17 @@
 ---
 layout: page
 permalink: /lab-photos/
-title: lab photos
+title: Lab Photos
 description: a gallery of past Cheng Lab moments
 nav: true
 nav_order: 6
 ---
 
 <style>
-  :root {
-    --global-bg-color: #e0e2dc;
-    --global-card-bg-color: #e0e2dc;
-  }
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 125%;
+    font-size: 110%;
   }
   #search-toggle .nav-link {
     font-size: 0;

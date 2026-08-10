@@ -1,21 +1,17 @@
 ---
 layout: page
 permalink: /join-us/
-title: join us
+title: Join Us
 description: openings and how to apply to the Cheng Lab
 nav: true
 nav_order: 5
 ---
 
 <style>
-  :root {
-    --global-bg-color: #e0e2dc;
-    --global-card-bg-color: #e0e2dc;
-  }
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 125%;
+    font-size: 110%;
   }
   #search-toggle .nav-link {
     font-size: 0;
