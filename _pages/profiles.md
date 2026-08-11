@@ -166,7 +166,6 @@ nav_order: 2
       <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
-</div>
 <figure>
   <img src="{{ '/assets/img/lab_members/christian_headshot.png' | relative_url }}" alt="Christian Siangco">
   <figcaption>
@@ -181,3 +180,4 @@ nav_order: 2
     <div class="member-role">Lab technician</div>
   </figcaption>
 </figure>
+</div>
