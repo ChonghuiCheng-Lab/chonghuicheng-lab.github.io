@@ -146,7 +146,7 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Pedro Lopez">
+    <img src="{{ '/assets/img/lab_members/pedro_headshot.png' | relative_url }}" alt="Pedro Lopez">
     <figcaption>
       <div class="member-name">Pedro Lopez</div>
       <div class="member-role">Lab technician</div>
