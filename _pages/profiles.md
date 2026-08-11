@@ -167,14 +167,14 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Yousef Khashana">
+    <img src="{{ '/assets/img/lab_members/yousef_headshot.jpg' | relative_url }}" alt="Yousef Khashana">
     <figcaption>
       <div class="member-name">Yousef Khashana</div>
       <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/placeholder.png' | relative_url }}" alt="Ruiying Ma">
+    <img src="{{ '/assets/img/lab_members/ruiying_headshot.png' | relative_url }}" alt="Ruiying Ma">
     <figcaption>
       <div class="member-name">Ruiying Ma</div>
       <div class="member-role">Graduate Student</div>

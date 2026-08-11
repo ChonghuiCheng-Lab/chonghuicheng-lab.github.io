@@ -2,7 +2,6 @@
 layout: page
 permalink: /join-us/
 title: Join Us
-description: openings and how to apply to the Cheng Lab
 nav: true
 nav_order: 5
 ---
