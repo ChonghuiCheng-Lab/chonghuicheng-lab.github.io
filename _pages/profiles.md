@@ -111,16 +111,16 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/panici-brendan-a4b8dcc2b9d1.jpeg' | relative_url }}" alt="Brendan Panici">
-    <figcaption>
-      <div class="member-name">Brendan Panici</div>
-      <div class="member-role">Graduate Student</div>
-    </figcaption>
-  </figure>
-  <figure>
     <img src="{{ '/assets/img/lab_members/patel-khushali-6583e41e9fe3.png' | relative_url }}" alt="Khushali Patel">
     <figcaption>
       <div class="member-name">Khushali Patel</div>
+      <div class="member-role">Postdoc</div>
+    </figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/img/lab_members/Aveksha_headshot.jpg' | relative_url }}" alt="Aveksha Sharma">
+    <figcaption>
+      <div class="member-name">Aveksha Sharma</div>
       <div class="member-role">Postdoc</div>
     </figcaption>
   </figure>
@@ -132,31 +132,17 @@ nav_order: 2
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/michael_lee_headshot.png' | relative_url }}" alt="Michael Lee">
+    <img src="{{ '/assets/img/lab_members/panici-brendan-a4b8dcc2b9d1.jpeg' | relative_url }}" alt="Brendan Panici">
     <figcaption>
-      <div class="member-name">Michael Lee</div>
+      <div class="member-name">Brendan Panici</div>
       <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
   <figure>
-    <img src="{{ '/assets/img/lab_members/christian_headshot.png' | relative_url }}" alt="Christian Siangco">
+    <img src="{{ '/assets/img/lab_members/michael_lee_headshot.png' | relative_url }}" alt="Michael Lee">
     <figcaption>
-      <div class="member-name">Christian Siangco</div>
-      <div class="member-role">Lab technician</div>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/img/lab_members/pedro_headshot.png' | relative_url }}" alt="Pedro Lopez">
-    <figcaption>
-      <div class="member-name">Pedro Lopez</div>
-      <div class="member-role">Lab technician</div>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="{{ '/assets/img/lab_members/Aveksha_headshot.jpg' | relative_url }}" alt="Aveksha Sharma">
-    <figcaption>
-      <div class="member-name">Aveksha Sharma</div>
-      <div class="member-role">Postdoc</div>
+      <div class="member-name">Michael Lee</div>
+      <div class="member-role">Graduate Student</div>
     </figcaption>
   </figure>
   <figure>
@@ -181,3 +167,17 @@ nav_order: 2
     </figcaption>
   </figure>
 </div>
+<figure>
+  <img src="{{ '/assets/img/lab_members/christian_headshot.png' | relative_url }}" alt="Christian Siangco">
+  <figcaption>
+    <div class="member-name">Christian Siangco</div>
+    <div class="member-role">Lab technician</div>
+  </figcaption>
+</figure>
+<figure>
+  <img src="{{ '/assets/img/lab_members/pedro_headshot.png' | relative_url }}" alt="Pedro Lopez">
+  <figcaption>
+    <div class="member-name">Pedro Lopez</div>
+    <div class="member-role">Lab technician</div>
+  </figcaption>
+</figure>

@@ -58,11 +58,18 @@ latest_posts:
     display: block;
     margin: 0 auto;
   }
+  .lab-photo-hero figcaption {
+    text-align: center;
+    font-style: italic;
+    opacity: 0.75;
+    margin-top: 0.5rem;
+  }
 </style>
 
-<div class="lab-photo-hero">
+<figure class="lab-photo-hero">
   <img src="{{ '/assets/img/lab_group_photo.jpeg' | relative_url }}" alt="Cheng Lab group photo">
-</div>
+  <figcaption>Pink for Breast Cancer, October 2025</figcaption>
+</figure>
 
 The Cheng Lab seeks to transform discoveries in RNA biology into innovative strategies to understand, prevent, and treat metastatic breast cancer. Working at the interface of RNA biology, cancer biology, and immunology, we investigate the molecular mechanisms by which RNA processing and surveillance govern breast cancer metastasis, tumor-immune interactions, and therapeutic outcomes.
 

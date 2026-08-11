@@ -78,6 +78,4 @@ Our work revealed that TNBC cells form highly metastatic CTC clusters through an
 
 We also use single-cell RNA sequencing to investigate the molecular diversity of CTCs and have identified new cell-surface markers for detecting live CTCs. These markers improve detection of heterogeneous CTC populations, especially aggressive CTCs that have lost conventional epithelial markers. We are using these approaches to understand how tumor cells adapt to the circulation, define mechanisms that promote metastatic progression, and develop CTC-based strategies for monitoring metastatic disease.
 
-<p class="research-followup">See the <a href="/publications/">Publications</a> page for our recent papers, and <a href="/join-us/">Join Us</a> if you're interested in contributing to this work.</p>
-
-<!-- TODO: add current grant/funding information??? Other lab websites don't really seem to have it -->
+<p class="research-followup">See the <a href="/publications/">Publications</a> page for our recent papers, the <a href="/funding/">Funding</a> page for current grant support, and <a href="/join-us/">Join Us</a> if you're interested in contributing to this work.</p>
