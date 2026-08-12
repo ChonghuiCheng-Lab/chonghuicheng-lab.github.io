@@ -2,12 +2,14 @@
 layout: page
 permalink: /lab-photos/
 title: Lab Photos
-description: a gallery of past Cheng Lab moments
 nav: true
 nav_order: 7
 ---
 
 <style>
+  html {
+    scroll-behavior: smooth; /* animates jumps to a subsection instead of snapping instantly */
+  }
   html,
   body {
     font-family: "Open Sans", Arial, sans-serif;
@@ -60,7 +62,10 @@ nav_order: 7
   /* Category section headers: standard text, not the blue banner used elsewhere. */
   .photo-section-header {
     margin: 2.5rem 0 1.5rem 0;
-    scroll-margin-top: 90px; /* keeps the heading clear of the sticky bars when jumped to */
+    /* Clears both the fixed main navbar (~72px) and the sticky sub-nav bar
+       below it (~78px), plus a little breathing room, so the title isn't
+       left hidden underneath either bar after jumping to it. */
+    scroll-margin-top: 165px;
   }
   .photo-section-header:first-of-type {
     margin-top: 0.5rem;
