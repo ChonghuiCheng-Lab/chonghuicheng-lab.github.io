@@ -57,13 +57,8 @@ nav_order: 7
     opacity: 0.85;
   }
 
-  /* Category section headers, matching the banner style used on the Research page. */
+  /* Category section headers: standard text, not the blue banner used elsewhere. */
   .photo-section-header {
-    background-color: #1565c0;
-    color: #ffffff;
-    font-weight: 700;
-    padding: 0.9rem 1.75rem;
-    border-radius: 0.5rem;
     margin: 2.5rem 0 1.5rem 0;
     scroll-margin-top: 90px; /* keeps the heading clear of the sticky bars when jumped to */
   }
