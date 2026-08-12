@@ -1,0 +1,9 @@
+# Optional captions for lab photos, shown as a subtitle under the photo on the
+# Lab Photos page (/lab-photos/).
+#
+# Key = the photo's path relative to assets/img/lab_photos/ (i.e. "<Category>/<filename>",
+#       matching the subfolder it's in exactly, including spaces/capitalization).
+# Value = the caption text to display underneath it.
+#
+# Example (uncomment and edit to use):
+# "Lab Outings/1.jpeg": "Pink for Breast Cancer, October 2025"
