@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**November 2025** — We are awarded the CPRIT Individual Research Grant to study … <!-- TODO: finish this sentence — the grant topic was left incomplete -->
+**November 2025** — We are awarded the CPRIT Individual Research Grant to investigate tumor immunogenicity of TNBC through cryptic splicing-derived neopeptides.
